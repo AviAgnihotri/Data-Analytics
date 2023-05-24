@@ -1,4 +1,4 @@
-# Welcome to the ML Models Folder - a collection of various machine learning models for different use cases.
+# Welcome to the Data Analytics Folder
 
 **Here is a brief description of each model available in this folder:**
 
